@@ -17,42 +17,40 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: inline-flex;">
+<div style="display: flex; flex-wrap: wrap;">
     <p align="left"> 
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> 
         </a> 
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
         </a> 
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> 
         </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
         </a> 
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> 
         </a> 
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> 
         </a> 
         <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40" height="40"/> 
-        </a>
-        <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="50" height="50"/> 
         </a>
         <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" alt="numpy" width="40" height="40"/> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" alt="numpy" width="50" height="50"/> 
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-            <img src="https://camo.githubusercontent.com/d3a51e24090789de02fc3e958b951340f0bdc5c4a9208bd24a0550a3c0c8e0f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269" alt="javascript" width="40" height="40"/> 
+            <img src="https://camo.githubusercontent.com/d3a51e24090789de02fc3e958b951340f0bdc5c4a9208bd24a0550a3c0c8e0f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269" alt="javascript" width="50" height="50"/> 
         </a>
     </p> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/> 
 </div>
+
 
 
 
