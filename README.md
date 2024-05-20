@@ -37,11 +37,23 @@
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
             <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
         </a> 
+        <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40" height="40"/> 
+        </a>
+        <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/> 
+        </a>
+        <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" alt="numpy" width="40" height="40"/> 
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+            <img src="https://camo.githubusercontent.com/d3a51e24090789de02fc3e958b951340f0bdc5c4a9208bd24a0550a3c0c8e0f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269" alt="javascript" width="40" height="40"/> 
+        </a>
     </p> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
-</div> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
 </div>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianela-kesme&show_icons=true&locale=en&layout=compact" alt="marianela-kesme" /></p>
