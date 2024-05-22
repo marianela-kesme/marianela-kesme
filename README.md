@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
     <p align="left"> 
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> 
@@ -47,7 +47,7 @@
             <img src="https://camo.githubusercontent.com/7145514b6c88363e1cd5ede894038dfe01cbb401a055c0b49019cb67e724d366/68747470733a2f2f64617461736369656e746573742e636f6d2f65732f77702d636f6e74656e742f75706c6f6164732f73697465732f372f323032302f31302f706f7765722d62692d6c6f676f2d312e6a7067" alt="powerbi" width="90" height="50"/>
         </a>
         <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
-            <img src="https://camo.githubusercontent.com/0549723c6732c4aec79b26d78b0768b0c7469fc020ca861cd5ef3fdbc1a65917/68747470733a2f2f6c6f676f732d776f726c642e6e65742f77702d636f6e74656e742f75706c6f6164732f323032322f30322f4d6963726f736f66742d457863656c2d4c6f676f2d373030783339342e706e67" alt="excel" width="70" height="70"/> 
+            <img src="https://camo.githubusercontent.com/0549723c6732c4aec79b26d78b0768b0c7469fc020ca861cd5ef3fdbc1a65917/68747470733a2f2f6c6f676f732d776f726c642e6e65742f77702d636f6e74656e742f75706c6f6164732f323032322f30322f4d6963726f736f66742d457863656c2d4c6f676f2d373030783339342e706e67" alt="excel" width="90" height="70"/> 
         </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer">
             <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/> 
