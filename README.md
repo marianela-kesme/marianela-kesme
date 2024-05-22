@@ -36,8 +36,8 @@
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> 
     </a> 
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="60" height="60"/> 
+    <a href="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" target="_blank" rel="noreferrer"> 
+        <img src="https://camo.githubusercontent.com/74f9682d703e382ca6a85546e028fc0d6a4a78595c97d7bc57f96a5d2021ebc8/68747470733a2f2f7374617469632e6a61766174706f696e742e636f6d2f7475746f7269616c2f6d6174706c6f746c69622f696d616765732f6d6174706c6f746c69622d7475746f7269616c2e706e67" alt="matplotlib" width="60" height="60"/> 
     </a>
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
