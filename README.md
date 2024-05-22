@@ -39,6 +39,8 @@
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="60" height="60"/> 
     </a>
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
     <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" alt="numpy" width="60" height="60"/> 
     </a>
