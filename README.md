@@ -44,11 +44,18 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" alt="numpy" width="50" height="50"/> 
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-            <img src="https://camo.githubusercontent.com/d3a51e24090789de02fc3e958b951340f0bdc5c4a9208bd24a0550a3c0c8e0f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d3333333333333f7374796c653d666c6174266c6f676f3d706f7765726269" alt="javascript" width="50" height="50"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+        </a>
+        <a href="https://www.microsoft.com/powerbi" target="_blank" rel="noreferrer">
+            <img src="https://camo.githubusercontent.com/7145514b6c88363e1cd5ede894038dfe01cbb401a055c0b49019cb67e724d366/68747470733a2f2f64617461736369656e746573742e636f6d2f65732f77702d636f6e74656e742f75706c6f6164732f73697465732f372f323032302f31302f706f7765722d62692d6c6f676f2d312e6a7067" alt="powerbi" width="50" height="50"/>
+        </a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/> 
+        </a>
+        <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/> 
         </a>
     </p> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/> 
 </div>
 
 
