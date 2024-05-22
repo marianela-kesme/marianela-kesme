@@ -61,7 +61,7 @@
 
 <br>
 <br>
-<p style="display: inline-block;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianela-kesme&show_icons=true&locale=en&layout=compact" alt="marianela-kesme" /></p>
-
-<p style="display: inline-block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianela-kesme&show_icons=true&locale=en" alt="marianela-kesme" /></p>
-
+<div style="display: flex;">
+    <p style="display: inline-block;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marianela-kesme&show_icons=true&locale=en&layout=compact" alt="marianela-kesme" /></p>
+    <p style="display: inline-block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marianela-kesme&show_icons=true&locale=en" alt="marianela-kesme" /></p>
+</div>
