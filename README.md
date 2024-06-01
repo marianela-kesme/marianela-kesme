@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 25px;">
-    
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> 
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
