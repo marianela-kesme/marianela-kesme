@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marianela-kesme" alt="marianela-kesme" /></a> </p>
 
-- 🔭 I’m currently working on **a new project about data analitics**
+- 🔭 I’m currently working on **a new project about data analyst and business intelligence**
 
 - 🌱 I’m currently learning **Machine learning**
 
